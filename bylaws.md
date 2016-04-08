@@ -2,38 +2,37 @@
 
 
 
-the Student Senate of 
-the University of New Hampshire
-____________________________________________
-Bylaws
+#The Student Senate of The University of New Hampshire
 
-Article I: In Assembly
+#Bylaws
 
-A.	Each session of the Student Senate shall take place from May 1st until April 30th of the following year.
-B.	Student Senate shall hold regularly scheduled meetings, at the discretion of the Student Senate Speaker during the fall and spring semesters, with the exception of academic vacations and final exam periods. 
-C.	Meetings of Student Senate shall be open to the public, with the exception of the Executive Session. 
-1.	When in Executive Session, Student Senate shall abide by all state laws with reference to public bodies in Executive Session. 
-D.	Quorum to Conduct Business
-1.	Sixty (60) percent (rounded to the nearest whole number) of the current voting membership of Student Senate shall constitute quorum for the transaction of business.
-E.	Standing Orders
-1.	Standing Orders shall be implemented with the approval of two-thirds (2/3) of the Student Senate.  
-2.	Any member of the Student Senate may bring forward a proposed standing order.
-3.	Standing orders shall have a set date of expiration upon approval, or otherwise be effective in perpetuity. 
-a.	Standing Orders may be annulled before their date of expiration by motion with the approval of two-thirds (2/3) of the Student Senate
-F.	Voting Procedures
-1.	In the matter of all resolutions and of any other matter which is implicitly external to the operations of the Student Senate the right to vote shall be given to all voting members of the Student Senate.
-2.	In the matter of all bills and of any other matter which is implicitly internal to the operations of the Student Senate the right to vote shall be given to all members of the Student Senate which shall include all Ex-Officio members.  
-G.	Emergency Meetings 
-1.	Forty-eight (48) hour notice shall be provided for any emergency meeting. 
-2.	The purpose for the emergency meeting shall be communicated when the meeting is announced.
-3.	Request for Emergency Meetings
-a.	The Student Senate Speaker may call emergency meetings. 
-b.	Student Senate may call emergency meetings by submitting a petition composed of signatures from one-third (1/3) of the voting membership to the Student Senate Speaker.
-H.	Membership Rules of the Student Senate shall not be contrary to the University of New Hampshire nondiscrimination policy as outlined in the Students’ Rights, Rules, and Responsibilities.  
+##Article I: In Assembly
 
-Article II: Representation of the Student Body
+* A.	Each session of the Student Senate shall take place from May 1st until April 30th of the following year.
+* B.	Student Senate shall hold regularly scheduled meetings, at the discretion of the Student Senate Speaker during the fall and spring semesters, with the exception of academic vacations and final exam periods. 
+* C.	Meetings of Student Senate shall be open to the public, with the exception of the Executive Session. 
+** 1.	When in Executive Session, Student Senate shall abide by all state laws with reference to public bodies in Executive Session. 
+* D.	Quorum to Conduct Business
+** 1.	Sixty (60) percent (rounded to the nearest whole number) of the current voting membership of Student Senate shall constitute quorum for the transaction of business.
+* E.	Standing Orders
+** 1.	Standing Orders shall be implemented with the approval of two-thirds (2/3) of the Student Senate.  
+** 2.	Any member of the Student Senate may bring forward a proposed standing order.
+** 3.	Standing orders shall have a set date of expiration upon approval, or otherwise be effective in perpetuity. 
+*** a.	Standing Orders may be annulled before their date of expiration by motion with the approval of two-thirds (2/3) of the Student Senate
+* F.	Voting Procedures
+    1.	In the matter of all resolutions and of any other matter which is implicitly external to the operations of the Student Senate the right to vote shall be given to all voting members of the Student Senate.
+    2.	In the matter of all bills and of any other matter which is implicitly internal to the operations of the Student Senate the right to vote shall be given to all members of the Student Senate which shall include all Ex-Officio members.  
+* G.	Emergency Meetings 
+  1.	Forty-eight (48) hour notice shall be provided for any emergency meeting. 
+  2.	The purpose for the emergency meeting shall be communicated when the meeting is announced.
+  3.	Request for Emergency Meetings
+    * a.	The Student Senate Speaker may call emergency meetings. 
+    * b.	Student Senate may call emergency meetings by submitting a petition composed of signatures from one-third (1/3) of the voting membership to the Student Senate Speaker.
+* H.	Membership Rules of the Student Senate shall not be contrary to the University of New Hampshire nondiscrimination policy as outlined in the Students’ Rights, Rules, and Responsibilities.  
 
-Section I: Constituencies
+##Article II: Representation of the Student Body
+
+###Section I: Constituencies
 
 A.	The student body representation shall be divided into four (4) categories:
 1.	First Year Students
@@ -54,9 +53,9 @@ d.	Resident Senators shall submit a contract of commitment signed by the Senator
 i.	If the Hall Council is not established, fifty (50) signatures of their constituents shall be required prior to approval.
 ii.	Should multiple students acquire the requisite number of signatures, the Hall Director shall hold elections within the residence hall.  Should the Hall Director be unable, or unwilling, the Executive Officer shall be responsible for the elections.
 
-Article III: Composition of the Student Senate
+##Article III: Composition of the Student Senate
 
-Section I: Student Senators
+###Section I: Student Senators
 
 A.	Qualifications
 1.	Student Senators shall retain full time undergraduate status from time of approval through their term of office. 
