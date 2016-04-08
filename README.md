@@ -10,7 +10,7 @@ Lets write more things... Yay for no taking hands off the keyboard!!!
 _So much more productive!!!!!_
 
 ###Experimenting with code markup
-````C/C++
+````C
   int i = 2;
   fprintf ( stderr, "Hello World! \n let's write some code");
   if ( apple == orange )
