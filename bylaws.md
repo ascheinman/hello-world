@@ -34,24 +34,24 @@
 
 ###Section I: Constituencies
 
-A.	The student body representation shall be divided into four (4) categories:
-1.	First Year Students
-a.	Consists of all first year undergraduate students. 
-b.	One (1) First Year Senator shall be elected to further represent First Year students in order to compensate for First Year students’ inability to vote for the incumbent Student Body President and Student Body Vice President. 
-c.	The First Year Senator shall be members of the Student Senate Executive Board and report to the Officer of the Student Body President
-d.	The First Year Senator shall be delegated by the Office of the Student Body President at least one (1) University committee to sit on where representation of the interests of the first year student seems pertinent.
-e.	First Year Senators shall be elected during the First Year Elections according to the procedures of the Student Senate Election Committee.
-2.	Nonresident Students
-a.	Consists of all undergraduate students not residing in University housing.
-b.	The number of Nonresident Senators shall be determined by the Executive Officer in proportion to the number of Nonresident Students.
-c.	Nonresident Senators shall meet with the Executive Officer and agree to the responsibilities by signing a petition prior to approval.
-3.	Resident Students
-a.	Consists of all undergraduate students residing in University housing. 
-b.	The number of Resident Senators shall be determined by the Executive Officer in proportion to the amount of Resident Students.
-c.	Constituencies for the Resident Students shall be defined based on the Department of Housing’s recognition of different constituencies. 
-d.	Resident Senators shall submit a contract of commitment signed by the Senator and the Hall Council President to the Executive Officer prior to approval.
-i.	If the Hall Council is not established, fifty (50) signatures of their constituents shall be required prior to approval.
-ii.	Should multiple students acquire the requisite number of signatures, the Hall Director shall hold elections within the residence hall.  Should the Hall Director be unable, or unwilling, the Executive Officer shall be responsible for the elections.
+1.	The student body representation shall be divided into four (4) categories:
+	1.	First Year Students
+		1.	Consists of all first year undergraduate students. 
+		2.	One (1) First Year Senator shall be elected to further represent First Year students in order to compensate for First Year students’ inability to vote for the incumbent Student Body President and Student Body Vice President. 
+		3.	The First Year Senator shall be members of the Student Senate Executive Board and report to the Officer of the Student Body President
+		4.	The First Year Senator shall be delegated by the Office of the Student Body President at least one (1) University committee to sit on where representation of the interests of the first year student seems pertinent.
+		5.	First Year Senators shall be elected during the First Year Elections according to the procedures of the Student Senate Election Committee.
+	2.	Nonresident Students
+		1.	Consists of all undergraduate students not residing in University housing.
+		2.	The number of Nonresident Senators shall be determined by the Executive Officer in proportion to the number of Nonresident Students.
+		3.	Nonresident Senators shall meet with the Executive Officer and agree to the responsibilities by signing a petition prior to approval.
+	3.	Resident Students
+		1.	Consists of all undergraduate students residing in University housing. 
+		2.	The number of Resident Senators shall be determined by the Executive Officer in proportion to the amount of Resident Students.
+		3.	Constituencies for the Resident Students shall be defined based on the Department of Housing’s recognition of different constituencies. 
+		4.	Resident Senators shall submit a contract of commitment signed by the Senator and the Hall Council President to the Executive Officer prior to approval.
+			1.	If the Hall Council is not established, fifty (50) signatures of their constituents shall be required prior to approval.
+			2.	Should multiple students acquire the requisite number of signatures, the Hall Director shall hold elections within the residence hall.  Should the Hall Director be unable, or unwilling, the Executive Officer shall be responsible for the elections.
 
 ##Article III: Composition of the Student Senate
 
