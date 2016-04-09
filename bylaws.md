@@ -90,86 +90,86 @@
 	3.	Any constituency shall have the right to request that its respective Student Senator(s) be removed from office. For a request to be recognized, a petition of signatures from fifty (50) members, or forty (40) percent, of the constituency of the Student Senator shall be submitted to the Student Senate Speaker.
 	4.	The Student Senate may request the removal of a Student Senator from office by a bill to be presented by the Student Senate Executive Officer. Such a request shall be based on the failure of a Senator to fulfill his or her responsibilities.
 
-Section II: Student Senate Executive Board
+##Section II: Student Senate Executive Board
 
-Subsection I: The Executive Board in Assembly
+###Subsection I: The Executive Board in Assembly
 
-A.	The Student Senate Executive Board shall hold meetings as deemed necessary by the Student Body President. 
-B.	Meetings of the Student Senate Executive Board shall be held in Executive session and shall abide by all federal, state, and local laws with reference to public bodies in Executive Session. 
-C.	Quorum to Conduct Business
-1.	Sixty (60) percent (rounded to the nearest whole number) of the current voting membership of Student Senate Executive Board shall constitute quorum for the transaction of business.
-D.	Emergency Meetings 
-1.	Forty-eight (48) hour notice shall be provided for any emergency meeting. 
-2.	The purpose for the emergency meeting shall be communicated when the meeting is announced.
-3.	Request for Emergency Meetings
-a.	The Student Body President may call emergency meetings. 
-b.	The Student Senate Executive Board may call emergency meetings by submitting a petition composed of signatures from one-third (1/3) of the voting membership to the Student Body President. 
+1.	The Student Senate Executive Board shall hold meetings as deemed necessary by the Student Body President. 
+2.	Meetings of the Student Senate Executive Board shall be held in Executive session and shall abide by all federal, state, and local laws with reference to public bodies in Executive Session. 
+3.	Quorum to Conduct Business
+	1.	Sixty (60) percent (rounded to the nearest whole number) of the current voting membership of Student Senate Executive Board shall constitute quorum for the transaction of business.
+4.	Emergency Meetings 
+	1.	Forty-eight (48) hour notice shall be provided for any emergency meeting. 
+	2.	The purpose for the emergency meeting shall be communicated when the meeting is announced.
+	3.	Request for Emergency Meetings
+		a.	The Student Body President may call emergency meetings. 
+		b.	The Student Senate Executive Board may call emergency meetings by submitting a petition composed of signatures from one-third (1/3) of the voting membership to the Student Body President. 
 
-Subsection II: Authorities of the Executive Board
+##Subsection II: Authorities of the Executive Board
 
-A.	The Student Senate Executive Board shall: 
-1.	Provide collective leadership for establishing priorities and coordinating the efforts of the Student Senate.
-2.	Act as a source of information and reference to the Student Senate.
-3.	Act in place of the Student Senate in cases where time constraints make it impossible for the Student Senate to meet. All actions of the Student Senate Executive Board under said circumstances shall be communicated to the Student Senate at the next regularly scheduled meeting.
-4.	Approve minutes of all Student Senate meetings.
-5.	Coordinate communication between the Student Senate and the University administration.
-6.	Approve all line-item changes in the Student Senate budget before its submission to the Student Activity Fee Committee.
-7.	Hold a mandatory orientation for members of the Student Senate by the last regularly scheduled meeting in October.
-a.	This orientation shall consist of: 
-i.	Student Senate protocol, which may include, but is not limited to, an overview of the Student Senate Constitution and Bylaws. 
-ii.	Student Senate meeting etiquette and parliamentary procedure based on Robert’s Rules of Order Newly Revised. 
-iii.	Any other information deemed relevant by the Student Senate Executive Board for the remainder of the current session. 
+1.	The Student Senate Executive Board shall: 
+	1.	Provide collective leadership for establishing priorities and coordinating the efforts of the Student Senate.
+	2.	Act as a source of information and reference to the Student Senate.
+	3.	Act in place of the Student Senate in cases where time constraints make it impossible for the Student Senate to meet. All actions of the Student Senate Executive Board under said circumstances shall be communicated to the Student Senate at the next regularly scheduled meeting.
+	4.	Approve minutes of all Student Senate meetings.
+	5.	Coordinate communication between the Student Senate and the University administration.
+	6.	Approve all line-item changes in the Student Senate budget before its submission to the Student Activity Fee Committee.
+	7.	Hold a mandatory orientation for members of the Student Senate by the last regularly scheduled meeting in October.
+		1.	This orientation shall consist of: 
+			1.	Student Senate protocol, which may include, but is not limited to, an overview of the Student Senate Constitution and Bylaws. 
+			2.	Student Senate meeting etiquette and parliamentary procedure based on Robert’s Rules of Order Newly Revised. 
+			3.	Any other information deemed relevant by the Student Senate Executive Board for the remainder of the current session. 
 
-Subsection III: Responsibilities of Executive Board Members
+##Subsection III: Responsibilities of Executive Board Members
 
-A.	No member of the Student Senate shall hold more than one position on the Executive Board. 
-B.	Responsibilities  
-1.	Voting members of the Student Senate Executive Board shall not be absent without excuse from more than four (4) regularly scheduled Student Senate meetings during a session. 
-2.	Voting members of the Student Senate Executive Board shall not be absent without excuse from more than two (2) regularly scheduled Student Senate Executive Board meetings during a session. 
-3.	Voting members of the Student Senate Executive Board shall be required to spend four (4) hours per week in the Student Senate Office, which shall not be fulfilled by Officer or Executive Board meetings. 
-4.	Voting members of the Student Senate Executive Board shall be required to attend any Student Senate orientation.
-5.	Voting members of the Student Senate Executive Board shall be required to attend Student Senate Executive Board orientation.
-C.	Removal of Student Senate Executive Board Members
-1.	Failure to perform any of the aforementioned duties without excuse shall be grounds for removal from office at the discretionary consensus of the Student Body President, Student Body Vice President, and the Student Senate Speaker.
-2.	Failure of an Executive Board member to perform any of the responsibilities of their position outlined herein shall be grounds for removal from office at the discretionary consensus of the Student Body President, Student Body Vice President, and the Student Senate Speaker. 
-3.	The Student Senate may request a removal from office with a petition of signatures of one-half (1/2) the total voting membership of the Student Senate, submitted to the Student Senate Speaker. 
-4.	The Student Body may request a removal with a petition of three hundred (300) full time undergraduate students, submitted to the Student Senate Speaker. 
-5.	Removal from Office petitions shall be based on the failure of an Executive Board member to fulfill their responsibilities.
-6.	The Student Senate Speaker shall put a removal motion to the floor at the next regularly scheduled meeting.
-7.	This motion shall require a fifty eight point five percent (58.5%) vote for approval.
-8.	In the event that the Student Senate Speaker is up for removal, the Parliamentarian shall bring the motion to the floor. 
-D.	Midterm Vacancy of a Student Senate Executive Board Member
-1.	In the event of a midterm vacancy of a Student Senate Executive Board Member, except as otherwise outlined by these bylaws as for the Student Body President and Vice President, the Student Trustee, University System Student Board Representative, and the Student Senate Speaker, the member of the executive board responsible for overseeing the vacant position shall appoint an interim within two (2) academic days.
-a.	Within two (2) academic weeks the Student Senate shall approve a replacement to serve for the remainder of the term.
-b.	Any student who is eligible to hold such a position as outlined by these bylaws shall be eligible to fill it including but not limited to the interim member.
-2.	In the event of a midterm vacancy in the Student Activity Fee Committee Executive Board, the committee shall provide a recommendation to the Student Senate as to who should serve for the remainder of the term within two (2) academic weeks.
-a.	In the event of a midterm vacancy in the position of the SAFC Chairperson, the Student Senate Speaker shall appoint the interim within two (2) academic days.
-b.	In the event of a midterm vacancy in the position of a SAFC CFO, the SAFC Chairperson shall appoint the interim within two (2) academic days.
-c.	The recommendation for replacements shall follow the SAFC appointment bylaws for vacant positions.
+1.	No member of the Student Senate shall hold more than one position on the Executive Board. 
+2.	Responsibilities  
+	1.	Voting members of the Student Senate Executive Board shall not be absent without excuse from more than four (4) regularly scheduled Student Senate meetings during a session. 
+	2.	Voting members of the Student Senate Executive Board shall not be absent without excuse from more than two (2) regularly scheduled Student Senate Executive Board meetings during a session. 
+	3.	Voting members of the Student Senate Executive Board shall be required to spend four (4) hours per week in the Student Senate Office, which shall not be fulfilled by Officer or Executive Board meetings. 
+	4.	Voting members of the Student Senate Executive Board shall be required to attend any Student Senate orientation.
+	5.	Voting members of the Student Senate Executive Board shall be required to attend Student Senate Executive Board orientation.
+3.	Removal of Student Senate Executive Board Members
+	1.	Failure to perform any of the aforementioned duties without excuse shall be grounds for removal from office at the discretionary consensus of the Student Body President, Student Body Vice President, and the Student Senate Speaker.
+	2.	Failure of an Executive Board member to perform any of the responsibilities of their position outlined herein shall be grounds for removal from office at the discretionary consensus of the Student Body President, Student Body Vice President, and the Student Senate Speaker. 
+	3.	The Student Senate may request a removal from office with a petition of signatures of one-half (1/2) the total voting membership of the Student Senate, submitted to the Student Senate Speaker. 
+	4.	The Student Body may request a removal with a petition of three hundred (300) full time undergraduate students, submitted to the Student Senate Speaker. 
+	5.	Removal from Office petitions shall be based on the failure of an Executive Board member to fulfill their responsibilities.
+	6.	The Student Senate Speaker shall put a removal motion to the floor at the next regularly scheduled meeting.
+	7.	This motion shall require a fifty eight point five percent (58.5%) vote for approval.
+	8.	In the event that the Student Senate Speaker is up for removal, the Parliamentarian shall bring the motion to the floor. 
+4.	Midterm Vacancy of a Student Senate Executive Board Member
+	1.	In the event of a midterm vacancy of a Student Senate Executive Board Member, except as otherwise outlined by these bylaws as for the Student Body President and Vice President, the Student Trustee, University System Student Board Representative, and the Student Senate Speaker, the member of the executive board responsible for overseeing the vacant position shall appoint an interim within two (2) academic days.
+		a.	Within two (2) academic weeks the Student Senate shall approve a replacement to serve for the remainder of the term.
+		b.	Any student who is eligible to hold such a position as outlined by these bylaws shall be eligible to fill it including but not limited to the interim member.
+	2.	In the event of a midterm vacancy in the Student Activity Fee Committee Executive Board, the committee shall provide a recommendation to the Student Senate as to who should serve for the remainder of the term within two (2) academic weeks.
+		a.	In the event of a midterm vacancy in the position of the SAFC Chairperson, the Student Senate Speaker shall appoint the interim within two (2) academic days.
+		b.	In the event of a midterm vacancy in the position of a SAFC CFO, the SAFC Chairperson shall appoint the interim within two (2) academic days.
+		c.	The recommendation for replacements shall follow the SAFC appointment bylaws for vacant positions.
 
-Subsection IV: Officers of the Student Senate
+##Subsection IV: Officers of the Student Senate
 
 A.	Election of the Student Senate Speaker
-1.	Nominations for Student Senate Speaker shall be taken from the floor one meeting before and at the meeting of election.
-2.	The Student Senate Speaker shall be elected by a majority vote from each member of the incumbent Student Senate by secret ballot, except for the Student Senate Speaker nominees.
-3.	All nominees and the incumbent Student Senate Speaker shall be absent from the Senate chamber during deliberation.
-4.	The election of the Student Senate Speaker shall be conducted in executive session.
+	1.	Nominations for Student Senate Speaker shall be taken from the floor one meeting before and at the meeting of election.
+	2.	The Student Senate Speaker shall be elected by a majority vote from each member of the incumbent Student Senate by secret ballot, except for the Student Senate Speaker nominees.
+	3.	All nominees and the incumbent Student Senate Speaker shall be absent from the Senate chamber during deliberation.
+	4.	The election of the Student Senate Speaker shall be conducted in executive session.
 B.	Selection and Approval of the Student Senate Officers
-1.	A committee consisting of the Student Senate Speaker, the Assistant Student Senate Speaker, the Student Senate Parliamentarian, the Student Senate Executive Officer, the Student Senate Business Manager, the Student Senate Public Relations Manager, SAFC Chairperson, and the Student Senate Historian shall make recommendations on the selection of the Student Senate Officers for the following Session.
-2.	The Student Senate shall review Officer recommendations and approve officers with a two-thirds (2/3) approval by the last regularly scheduled meeting in March.
+	1.	A committee consisting of the Student Senate Speaker, the Assistant Student Senate Speaker, the Student Senate Parliamentarian, the Student Senate Executive Officer, the Student Senate Business Manager, the Student Senate Public Relations Manager, SAFC Chairperson, and the Student Senate Historian shall make recommendations on the selection of the Student Senate Officers for the following Session.
+	2.	The Student Senate shall review Officer recommendations and approve officers with a two-thirds (2/3) approval by the last regularly scheduled meeting in March.
 C.	Term of Office
-1.	After the Student Senate has approved an officer, they shall serve as the assistant to the incumbent for training from the time of approval until May 1 of the current year.
-2.	Each Officer of the Student Senate shall hold office from May 1 to April 30 of the following year.
+	1.	After the Student Senate has approved an officer, they shall serve as the assistant to the incumbent for training from the time of approval until May 1 of the current year.
+	2.	Each Officer of the Student Senate shall hold office from May 1 to April 30 of the following year.
 D.	Student Senate Speaker
-1.	Qualifications
-a.	The Student Senate Speaker shall retain full time undergraduate status from time of election through term of office.
-b.	The Student Senate Speaker shall have been a member of Student Senate for no less than three (3) semesters at the beginning of their term of office.
-c.	The Student Senate Speaker shall not declare candidacy for Student Body President, Student Body Vice President, or Student Trustee/University System Student Board Representative during term of office.
-2.	Authority and Responsibilities
-a.	The Student Senate Speaker shall
-i.	Be the spokesperson of Student Senate.
-ii.	Preside over all meetings of the Student Senate.
-iii.	Be knowledgeable in, and conduct meetings of the Student Senate in accordance with parliamentary procedure as defined in Robert’s Rules of Order Newly Revised.
+	1.	Qualifications
+		a.	The Student Senate Speaker shall retain full time undergraduate status from time of election through term of office.
+		b.	The Student Senate Speaker shall have been a member of Student Senate for no less than three (3) semesters at the beginning of their term of office.
+		c.	The Student Senate Speaker shall not declare candidacy for Student Body President, Student Body Vice President, or Student Trustee/University System Student Board Representative during term of office.
+	2.	Authority and Responsibilities
+		a.	The Student Senate Speaker shall
+			i.	Be the spokesperson of Student Senate.
+			ii.	Preside over all meetings of the Student Senate.
+			iii.	Be knowledgeable in, and conduct meetings of the Student Senate in accordance with parliamentary procedure as defined in Robert’s Rules of Order Newly Revised.
 iv.	Be an ex-officio non-voting member of all Student Senate Councils and Committees.
 v.	Approve and distribute all Student Senate meeting agendas four (4) days before meeting time, with the exception of emergency meetings.
 vi.	Preside over the removal of Student Senate Officers and Executive Positions, with the exception of his/her own removal.
