@@ -57,38 +57,38 @@ ii.	Should multiple students acquire the requisite number of signatures, the Hal
 
 ###Section I: Student Senators
 
-A.	Qualifications
-1.	Student Senators shall retain full time undergraduate status from time of approval through their term of office. 
-2.	Student Senators shall be members of their constituency from time of approval through their term of office. 
-3.	No student shall represent more than one constituency during their term of office.
-4.	Multiple students may represent one constituency as co-senators and share the vote of that constituency.
-B.	Senator Responsibilities 
-1.	Attendance 
-a.	Student Senators shall be required to attend all regularly scheduled Student Senate meetings. 
-i.	Any senator not present for the majority of a regularly scheduled Student Senate meeting shall be considered absent at the discretion of the Student Senate Executive Officer. 
-ii.	Student Senators shall be required to send a proxy should they be unable to attend a meeting. 
-a.	Proxies shall have full voting rights at the meetings which they attend. 
-b.	Proxies shall meet the following requirements:
-i.	A proxy shall be a full-time undergraduate student at the University of New Hampshire, Durham.
-ii.	A proxy may either be an ex-officio non-voting member of Student Senate, or a co-senator or member of the same constituency as the Student Senator with the exception of the Student Senate Executive Officer, who shall not be a proxy at any time. 
-iii.	A proxy shall not represent more than one Student Senator’s vote at a time. 
-iv.	A proxy shall be informed by the Student Senator s/he is representing of the information and opinions of his or her respective constituents with regards to the relevant agenda.
-b.	Any Student Senator who is absent from four (4) regularly scheduled Student Senate meetings during a session without providing an informed proxy shall be subject to removal from the Student Senate. If removal is not deemed appropriate, each subsequent absence shall subject a Student Senator to removal at the discretion of the Student Senate Executive Officer.
-2.	Student Senators shall be required to be a voting member of at least one (1) Student Senate Council or the Student Activity Fee Committee.
-3.	Student Senators shall be required to attend one (1) Student Activity Fee Committee meeting per semester. 
-4.	Student Senators shall be required to spend four (4) hours per week in the Student Senate office, or performing duties related to Senate that shall be assigned or approved by Executive Board members. 
-5.	Student Senators shall be required to sign the Oath of Office.
-6.	Student Senators shall be required to attend Student Senate Orientation.
-a.	In the case of extenuating circumstances, Student Senators absent from Orientation shall be required to attend the Student Senate Make-up Orientation, should one be held.
-7.	Student Senators shall be required to complete Senator Contracts for their respective constituencies.  
-8.	Student Senators shall be responsible for maintaining contact with, obtaining feedback from, and reporting Student Senate business to their respective constituencies, as well as attending their respective governance meetings.  
-C.	Term of Office
-1.	Student Senators shall hold office from time of approval until April 30 of the current session.
-D.	Removal from Office
-1.	Student Senate shall have final jurisdiction over its own membership. 
-2.	Student Senate may remove any Student Senator by a two-thirds (2/3) vote. 
-3.	Any constituency shall have the right to request that its respective Student Senator(s) be removed from office. For a request to be recognized, a petition of signatures from fifty (50) members, or forty (40) percent, of the constituency of the Student Senator shall be submitted to the Student Senate Speaker.
-4.	The Student Senate may request the removal of a Student Senator from office by a bill to be presented by the Student Senate Executive Officer. Such a request shall be based on the failure of a Senator to fulfill his or her responsibilities.
+1.	Qualifications
+	1.	Student Senators shall retain full time undergraduate status from time of approval through their term of office. 
+	2.	Student Senators shall be members of their constituency from time of approval through their term of office. 
+	3.	No student shall represent more than one constituency during their term of office.
+	4.	Multiple students may represent one constituency as co-senators and share the vote of that constituency.
+2.	Senator Responsibilities 
+	1.	Attendance 
+		1.	Student Senators shall be required to attend all regularly scheduled Student Senate meetings. 
+			1.	Any senator not present for the majority of a regularly scheduled Student Senate meeting shall be considered absent at the discretion of the Student Senate Executive Officer. 
+			2.	Student Senators shall be required to send a proxy should they be unable to attend a meeting. 
+				1.	Proxies shall have full voting rights at the meetings which they attend. 
+				2.	Proxies shall meet the following requirements:
+					1.	A proxy shall be a full-time undergraduate student at the University of New Hampshire, Durham.
+					2.	A proxy may either be an ex-officio non-voting member of Student Senate, or a co-senator or member of the same constituency as the Student Senator with the exception of the Student Senate Executive Officer, who shall not be a proxy at any time. 
+					*	A proxy shall not represent more than one Student Senator’s vote at a time. 
+					*	A proxy shall be informed by the Student Senator s/he is representing of the information and opinions of his or her respective constituents with regards to the relevant agenda.
+			2.	Any Student Senator who is absent from four (4) regularly scheduled Student Senate meetings during a session without providing an informed proxy shall be subject to removal from the Student Senate. If removal is not deemed appropriate, each subsequent absence shall subject a Student Senator to removal at the discretion of the Student Senate Executive Officer.
+		2.	Student Senators shall be required to be a voting member of at least one (1) Student Senate Council or the Student Activity Fee Committee.
+		3.	Student Senators shall be required to attend one (1) Student Activity Fee Committee meeting per semester. 
+		4.	Student Senators shall be required to spend four (4) hours per week in the Student Senate office, or performing duties related to Senate that shall be assigned or approved by Executive Board members. 
+		5.	Student Senators shall be required to sign the Oath of Office.
+	6.	Student Senators shall be required to attend Student Senate Orientation.
+		a.	In the case of extenuating circumstances, Student Senators absent from Orientation shall be required to attend the Student Senate Make-up Orientation, should one be held.
+	7.	Student Senators shall be required to complete Senator Contracts for their respective constituencies.  
+	8.	Student Senators shall be responsible for maintaining contact with, obtaining feedback from, and reporting Student Senate business to their respective constituencies, as well as attending their respective governance meetings.  
+3.	Term of Office
+	1.	Student Senators shall hold office from time of approval until April 30 of the current session.
+4.	Removal from Office
+	1.	Student Senate shall have final jurisdiction over its own membership. 
+	2.	Student Senate may remove any Student Senator by a two-thirds (2/3) vote. 
+	3.	Any constituency shall have the right to request that its respective Student Senator(s) be removed from office. For a request to be recognized, a petition of signatures from fifty (50) members, or forty (40) percent, of the constituency of the Student Senator shall be submitted to the Student Senate Speaker.
+	4.	The Student Senate may request the removal of a Student Senator from office by a bill to be presented by the Student Senate Executive Officer. Such a request shall be based on the failure of a Senator to fulfill his or her responsibilities.
 
 Section II: Student Senate Executive Board
 
