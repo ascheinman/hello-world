@@ -12,8 +12,7 @@
 2..	Student Senate shall hold regularly scheduled meetings, at the discretion of the Student Senate Speaker during the fall and spring semesters, with the exception of academic vacations and final exam periods. 
 3.	Meetings of Student Senate shall be open to the public, with the exception of the Executive Session. 
  1.	When in Executive Session, Student Senate shall abide by all state laws with reference to public bodies in Executive Session. 
-4.	Quorum to Conduct Business
-	1.	Sixty (60) percent (rounded to the nearest whole number) of the current voting membership of Student Senate shall constitute quorum for the transaction of business.
+
 5.	Standing Orders
 	 1.	Standing Orders shall be implemented with the approval of two-thirds (2/3) of the Student Senate.  
 	 2.	Any member of the Student Senate may bring forward a proposed standing order.
