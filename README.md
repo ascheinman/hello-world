@@ -19,6 +19,13 @@ _So much more productive!!!!!_
   }
   return i;
 ````
+````python
+def authenticate( aSession, username, password):
+    aSession.post(_url('j_spring_security_check'), params = {'j_username':username, 'j_password':password} )
+    
+  `````
+  regular stuff
+  
 
 
 
